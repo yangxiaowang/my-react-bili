@@ -6,7 +6,7 @@ class Info extends React.Component{
     }
     render(){
         return (
-            <div>Info</div>
+            <div className='test'>Info</div>
         )
     }
 }
